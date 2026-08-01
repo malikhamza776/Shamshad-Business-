@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433725791005",
+    "project_id": "shamshad-business",
+    "storage_bucket": "shamshad-business.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433725791005:android:2151270ab4bc09f46edff4",
+        "android_client_info": {
+          "package_name": "com.shamshadrice.business"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjDdMqvQUe5LLFCtXJxEfs9ZoIAHh-uaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
